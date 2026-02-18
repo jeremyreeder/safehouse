@@ -9,9 +9,8 @@ title: The Safe House™ — Jeremy Reeder, master safecracker
 - Meridian, Idaho, USA
 - <jeremy@gridscout.net> — [OpenPGP public key][email-key]
 
-Do you need a good safecracker or a vault repairman? I'm retired, but in my
-absence you can't go wrong with Lance Mayhew of [Ada County Lock &
-Safe][mayhew]. Give him a call.
+Do you need a top-notch safecracker or a vault repairman? I'm retired, but in
+Idaho you can't go wrong with Lance Mayhew of [Ada County Lock & Safe][mayhew].
 {:.tangent}
 
 <div class="gallery" markdown="1">
@@ -27,33 +26,25 @@ locks and safes relatively quickly through non-invasive methods.][lock-picks]
 
 # Does your safe or vault need maintenance?
 Well-maintained safes are easier to operate and more secure than their
-neglected counterparts. By performing proper annual maintenance, I can correct
-problems with your safe lock before they become severe. Without this
-maintenance, the lock will, in fact, stop working. This can have either of two
-undesirable results: you can't open your safe, or your safe is left vulnerable
-to burglary. This tends to defeat the purpose of having a safe. If your safe or
-vault has any of these symptoms, or if it's been a while since its last
-professional service, then it's time to call a professional.
-
-# Do you need a good safecracker?
-If you're locked out of your safe, a good professional safecracker can help.
-Perhaps you neglected the aforementioned maintenance, which you may not have
-realized was needed. Or maybe, for whatever reason, the combination is simply
-not known. Don't worry. With the right skills and tools and time, a good
-safeman can open your safe while leaving it securely functional, not broken.
-
-A legitimate safecracker may be able to help you open your own safe but of
-course won't help you rob anyone, so quit asking. We get asked to do that from
-time to time, but we're really not interested.
+neglected counterparts. By performing proper annual maintenance, a skilled
+vault engineer can correct problems with the lock before they become severe.
+Without this maintenance, the lock will, at some point, stop working. This can
+have either of two undesirable results: you can't open your safe, or your safe
+is left vulnerable to burglary. So if it's got any of these symptoms, or if
+it's been a while since its last professional service, then I suggest you call
+for help.
 
 # Has a burglar damaged your safe?
 Burglars tend to favor safecracking methods that involve brute force and large
 hammers. They break off dials and handles, cut hinges, and in general smash
-things up. Fortunately, these popular methods are largely unsuccessful. (Safe
-manufacturers, after all, did think of these methods in their designs.) If your
-safe has been the victim of such demolition, you may be left with no way to
-open the safe. You'll be happy to know that we can open such safes and can
-usually repair them.
+things up. Fortunately, these popular methods are largely unsuccessful against
+modern safes. If you are a victim of such thuggery, you may be left with no way
+to open the safe on your own. A skilled professional safecracker can resolve
+this.
+
+# Looking for help robbing a bank?
+We're not interested in this kind of work, so quit asking.
+
 
 # Legal notice
 Site icon depicting a house and padlock, made by [Freepik][freepik] from
