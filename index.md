@@ -45,20 +45,11 @@ this.
 # Looking for help robbing a bank?
 We're not interested in this kind of work, so quit asking.
 
-
-# Legal notice
-Site icon depicting a house and padlock, made by [Freepik][freepik] from
-[flaticon.com][flaticon], is licensed under [Creative Commons BY
-3.0][icon-license].
-
-All other content © 2004-2018 The Safe House™.
+Copyright © 2004-2018 The Safe House™
 
 
 [email-key]:    download/publickey.jeremy@gridscout.net.asc
 [drill-rig]:    images/helixbullet.jpg
-[freepik]:      https://www.freepik.com
-[flaticon]:     https://www.flaticon.com
-[icon-license]: http://creativecommons.org/licenses/by/3.0
 [lock-picks]:   images/jacknife-open.jpg
 [logo]:         images/cracker.png
 [mayhew]:       http://www.adacountylockandsafe.com
