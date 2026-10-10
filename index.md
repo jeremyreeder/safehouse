@@ -5,7 +5,7 @@ title: The Safe House™ — Jeremy Reeder, master safecracker
 
 
 Jeremy Reeder<br />
-Retired master safecracker<br />
+RETIRED MASTER SAFECRACKER<br />
 Meridian, Idaho, USA<br />
 <jeremy@gridscout.net>
 
